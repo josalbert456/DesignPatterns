@@ -1,2 +1,2 @@
 
-BlueLight, GreenLight, RedLight, Light, Switch, Main ---- is it Observer???
+BlueLight, GreenLight, RedLight, Light, Switch, SwitchObserver ---- is it Observer???
